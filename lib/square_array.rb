@@ -18,4 +18,5 @@ def square_array (array)
   ## need a loop
   ##return new array
   end
+  new_array
 end
