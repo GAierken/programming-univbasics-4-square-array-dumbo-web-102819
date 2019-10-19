@@ -1,8 +1,4 @@
-def square_array(array)
-  count=0
-  while count<array.length do
-    puts array.map { |num| num**2 }
-  end
-
+def array=[1,2,3,4,5]
+    p  array.each
 
 end
