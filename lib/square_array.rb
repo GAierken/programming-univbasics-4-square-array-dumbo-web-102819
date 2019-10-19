@@ -10,5 +10,5 @@
 
 
 def square_array (array)
-    
+    ###return a new array 
 end
