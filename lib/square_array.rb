@@ -11,6 +11,6 @@
 
 def square_array (array)
 
-  ###return a new array 
+  ###return a new array
   ## need a loop
 end
