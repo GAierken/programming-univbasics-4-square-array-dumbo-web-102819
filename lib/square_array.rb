@@ -13,6 +13,7 @@ def square_array (array)
     new_array=
     counter=0
   while counter<array.length do 
+    
   ## need a loop
   ##return new array
   end
