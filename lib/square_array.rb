@@ -10,8 +10,9 @@
 
 
 def square_array (array)
-    new_array = 
-  ###return a new array
+    new_array =
+    counter=0
+     while
   ## need a loop
   ##return new array
 end
