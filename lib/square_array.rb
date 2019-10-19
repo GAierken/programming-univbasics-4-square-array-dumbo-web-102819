@@ -6,7 +6,7 @@
 #new_array= array**2
 #while <<<<condition>>>> do
    ####execution code
-  #end 
+  #end
 
 
 def square_array (array)
