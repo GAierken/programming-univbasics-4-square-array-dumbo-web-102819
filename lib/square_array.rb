@@ -4,6 +4,9 @@
 #return a ****new*** array with squared numbers
 
 #new_array= array**2
+#while <<<<condition>>>> do
+   ####execution code
+  #end 
 
 
 def square_array (array)
